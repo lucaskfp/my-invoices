@@ -1,4 +1,5 @@
 import "@mantine/core/styles.css";
+import './index.css'
 
 import { App } from "./App.tsx";
 import { MantineProvider } from "@mantine/core";
