@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["mantine", "Mantine", "tabler", "tailwindcss", "tanstack"]
+  "cSpell.words": [
+    "dayjs",
+    "mantine",
+    "Mantine",
+    "tabler",
+    "tailwindcss",
+    "tanstack"
+  ],
+  "exportall.config.folderListener": ["/src/components"]
 }
